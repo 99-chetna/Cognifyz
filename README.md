@@ -4,3 +4,5 @@
 
 
 This repository is about my challenges done at Cognifyz technologies. I am feeling very delighted to share that I have completed these tasks. It was a great experience for a beginner like me and I suggest everyone to look after this internship as it helps to gain hands on experience on different Librariers/modules. I also learned many new things which help me to polish my skills.
+
+In this repository there were three different levels with different task to perform. Rest you can see from my repository to get some help.
